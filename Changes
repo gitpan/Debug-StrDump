@@ -1,0 +1,6 @@
+Revision history for Perl extension Debug::StrDump.
+
+0.01  Thu May 31 15:39:48 2007
+	- original version; created by h2xs 1.23 with options
+		-AXs -n Debug::StrDump
+

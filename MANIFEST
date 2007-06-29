@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Debug-StrDump.t
+lib/Debug/StrDump.pm
